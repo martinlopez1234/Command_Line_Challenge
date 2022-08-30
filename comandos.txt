@@ -1,0 +1,20 @@
+cd thecmdchallenge/
+pwd
+ls -la
+ls-Rl
+clear
+cat ./small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt
+ls ./funcode/*.js
+mkdir ./funcode/the-most-funny/not-that-funny
+cp boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception/the-mostboring-text.txt boringfolder/lol.txt
+mv funcode/kids.jpg funcode/images/hello
+
+rm -r small-name
+
+cat funcode/the-most-funny/lol/the-ultimate-joke.txt
+
+rm -r boringfolder/*
+
+vim ./kaehameha/dragon-ball-jokes.md
+
+:wq!
